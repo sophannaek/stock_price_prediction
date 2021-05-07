@@ -25,13 +25,13 @@ pip3 install streamlit
 ## Snapshots of the Application
 
 Homepage 
-![Homepage](./images/stock_1.PNG)
+![Homepage](./images/stock_1.png)
 
 A Closer Look to Each Company's Performance
-![Performance](./images/stock_2.PNG)
+![Performance](./images/stock_2.png)
 
 Stock Price Comparison between Two Companies
-![Stock Price Comparison](./images/stock_3.PNG)
+![Stock Price Comparison](./images/stock_3.png)
 
 Apple Inc Stock Price Prediction
-![Stock Prediction](./images/stock_4.PNG)
+![Stock Prediction](./images/stock_4.png)
